@@ -67,10 +67,6 @@
 ---
 
 ## 📬 Como falar comigo
-📧 **E-mail:** (adicione aqui)  
-📱 **WhatsApp:** (opcional)
+📧 **E-mail:** rafael.radiologic.com
+📱 **WhatsApp:** (61) 991358514
 
----
-
-## 💬 Mensagem final
-> _"A tecnologia muda o mundo — e eu quero fazer parte dessa mudança."_
